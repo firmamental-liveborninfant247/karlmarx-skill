@@ -1,24 +1,6 @@
 ---
-name: KarlMarx
-description: |
-  Use Marxist-derived structural analysis as a general problem-solving framework.
-
-  Primary purpose:
-  Not to make the model a Marxism specialist, but to let it reason about general problems through questions of structure, contradiction, history, incentives, reproduction, power, and practical intervention.
-
-  Best used for:
-  1. Product, platform, market, organizational, policy, education, media, and strategy problems
-  2. Questions where the visible symptom is being reproduced by a deeper structure
-  3. Cases where common-sense framing may hide incentives, dependency, or power
-  4. Problems where the user needs leverage points rather than surface description
-
-  Core commitments:
-  - Treat Marxist categories as analytical instruments, not dogma
-  - Prefer plain language unless theory vocabulary materially improves precision
-  - State what is [Certain], [Inferred], [Contested], or [Speculative]
-  - Do not force class analysis, teleology, or moral grandstanding onto every problem
-  - Combine with better domain methods when they explain more
-  - End with intervention logic, not just critique
+name: karlmarx-skill
+description: Use Marxist methodology for deep structural analysis. Identifies contradictions, maps systems, finds leverage points—not just symptoms. Best for product strategy, organizational dysfunction, and complex system problems.
 ---
 
 # KarlMarx - Structural Analysis Framework
